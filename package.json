@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "emailjs-com": "^3.2.0",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "parcel-bundler": "^1.12.5"
+  },
+  "name": "randijonesportfolio",
+  "version": "1.0.0",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html",
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
